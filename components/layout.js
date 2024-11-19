@@ -6,7 +6,7 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'Pisit Se66';
+const name = 'Pisit Se66 อิอิ';
 
 export const siteTitle = 'Next.js Sample Website';
 
